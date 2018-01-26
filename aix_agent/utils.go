@@ -1,4 +1,4 @@
-package aix_agent
+package main
 
 import "fmt"
 
